@@ -1,0 +1,12 @@
+# local files
+.DS_Store
+*/.DS_Store
+
+# python
+*.pyc
+
+# folders
+/images/
+
+
+
